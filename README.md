@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikumaruku
-- 👀 I’m interested in learning the basic in Java, Phyton, C++
-- 🌱 I’m currently learning Java and software development
-- 📫 How to reach me : @niksyahmiirfan - instagram
+- 👀 Frameworks : React, React Native, Laravel | Languanges : Phyton, Java, Javascript | MERN Stack
+- 📫 https://www.linkedin.com/in/nik-syahmi/ 
 
 <!---
 nikumaruku/nikumaruku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
