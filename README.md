@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikumaruku
-- 👀 Frameworks : React, React Native, Laravel | Languanges : Phyton, Java, Javascript | MERN Stack
+- 👀 Frameworks : React.js, Vue.js, Laravel | Languanges : Phyton, Java, Javascript | MERN Stack
 - 📫 https://www.linkedin.com/in/nik-syahmi/ 
 
 <!---
