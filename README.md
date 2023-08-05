@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on polishing my skills by constantly developing side projects (especially web & mobile application!) <br>🌱 I’m currently learning MERN tech stack & Flutter development<br>⚡ I code a lot || I love cloud development and machine learning
+🔭 I’m currently working on polishing my skills by constantly developing side projects (especially web & mobile application!) <br>🌱 I’m currently learning MERN tech stack & Flutter development<br>⚡ I code a lot & I am also learning cloud development (AWS) and machine learning <br>📱 Contact me at niksyahmiirfan01@gmail.com
 
 
 ## 🌐 Socials:
