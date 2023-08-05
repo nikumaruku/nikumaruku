@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing web & mobile application<br>🌱 I’m currently learning MERN tech stack & Flutter development<br>⚡ Fun fact :-<br>1) I code a lot <br>2) I am interested in cloud development and machine learning<br>3) I learn better through experience
+🔭 I’m currently working on polishing my skills by constantly developing side projects (especially web & mobile application!) <br>🌱 I’m currently learning MERN tech stack & Flutter development<br>⚡ I code a lot || I love cloud development and machine learning
 
 
 ## 🌐 Socials:
